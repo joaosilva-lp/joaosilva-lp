@@ -1,4 +1,4 @@
-##Hi there!
+## Hi there 👋
 
 - 👋 Hi, I’m João (@joaosilva-lp)
 - 👀 I’m interested in front-end and web development
