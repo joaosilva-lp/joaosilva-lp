@@ -16,6 +16,10 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosilva-lp)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaosilva-lp)](https://git.io/streak-stats)
+
+
+
 ## Here is some of my tech stack:
 
 <div align="center">
