@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaosilva-lp)](https://git.io/streak-stats)
 
 
-
+<iframe>https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-lp</iframe>
 ## Here is some of my tech stack:
 
 <div align="center">
