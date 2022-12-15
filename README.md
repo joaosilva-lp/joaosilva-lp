@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=joaosilva-lp&label=PROFILE+VIEWS)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-lp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-lp](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-lp)&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosilva-lp)](https://github.com/anuraghazra/github-readme-stats)
 
