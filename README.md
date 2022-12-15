@@ -6,8 +6,6 @@
 - 💞️ I’m looking to collaborate on institutional websites and landingpages or any fun project mostly with Javascript or Python. 
 - 📫 You can reach me at https://www.linkedin.com/in/silva-joao
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-lp)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
 joaosilva-lp/joaosilva-lp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -15,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=joaosilva-lp&label=PROFILE+VIEWS)
 
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-lp](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-lp)&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-lp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosilva-lp)](https://github.com/anuraghazra/github-readme-stats)
 
