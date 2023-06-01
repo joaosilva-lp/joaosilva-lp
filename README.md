@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m João (@joaosilva-lp)
+- 👋 Hi, I’m João (@joaosilva-lp) 
 - 👀 I’m interested mostly in Web Development
 - 🌱 I’m currently learning Javascript & Python
 - 💞️ I’m looking to collaborate on institutional websites and landingpages or any fun projects. 
