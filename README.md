@@ -11,7 +11,7 @@ joaosilva-lp/joaosilva-lp is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://ionicabizau.github.io/github-profile-languages/api.html?joaosilva-lp">Most used languages:</a><br>
+<a href="https://ionicabizau.github.io/github-profile-languages/api.html?joaosilva-lp">Most used languages:</a><br><br>
 [![Most used languages](https://github.com/joaosilva-lp/joaosilva-lp/assets/99473819/41caae4d-3235-413a-a0ce-b7cf585b5e80)](https://ionicabizau.github.io/github-profile-languages/api.html?joaosilva-lp)<br>
 (click on the image to get the percent of each image)
 
