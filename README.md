@@ -11,7 +11,7 @@ joaosilva-lp/joaosilva-lp is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Swagger API]()]([https://api.apis.guru/](https://ionicabizau.github.io/github-profile-languages/api.html?joaosilva-lp))
+[![Most used languages]()]([[https://api.apis.guru/](https://ionicabizau.github.io/github-profile-languages/api.html?joaosilva-lp)](https://ionicabizau.github.io/github-profile-languages/api.html?joaosilva-lp))
 
 
 ![](https://komarev.com/ghpvc/?username=joaosilva-lp&label=PROFILE+VIEWS)
